@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "ColorPairFromPairNumber.c"
-#include "PairNumberFromColorPair.c"
+#include "ColorPairVsPairNumber.c"
 
 //DEFINE TESTS
 
