@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "ColorsDefinition.c"
-#include "FormColorPair.c"
 
 //GET PAIR NUMBER FROM COLOR PAIR
 
