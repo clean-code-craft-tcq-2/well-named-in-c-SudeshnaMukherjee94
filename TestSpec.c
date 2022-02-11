@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <assert.h>
-#include "ColorsDefinition.c"
-#include "FormColorPair.c"
 #include "ColorPairFromPairNumber.c"
 #include "PairNumberFromColorPair.c"
 
